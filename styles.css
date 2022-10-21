@@ -11,14 +11,14 @@ body {
     padding-bottom: 20px;
     text-align: center;
     color: #9762F0;
-    font-weight: darker;
-    font-family: Cinzel Decorative;
-    font-size: 250%;
+    font-weight: bolder;
+    font-family: Kaushan Script;
+    font-size: 300%;
 }
 
 .container p {
     text-align: left;
     font-weight: normal;
-    font-family: Roboto;
+    font-family: ;
     font-size: 115%;
 }
