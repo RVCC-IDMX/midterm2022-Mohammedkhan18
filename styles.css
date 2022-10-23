@@ -3,11 +3,11 @@ body {
     color: #0C25E8;
     font-family: ;
 }
-.container {
+.box {
     padding: 120px;
     background-color: #BCD955;
 }
-.container h1 {
+.box h1 {
     padding-bottom: 20px;
     text-align: center;
     color: #9762F0;
@@ -16,9 +16,22 @@ body {
     font-size: 300%;
 }
 
-.container p {
+.box p {
     text-align: left;
     font-weight: normal;
-    font-family: ;
-    font-size: 115%;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+img {
+    padding-left: 40%;
+    padding-bottom: 30px;
+    width: 15em;
+}
+
+#websites h2 {
+    font-family: Kaushan Script ;
+    font-weight: bolder;
+    font-size: 250%;
+    text-align: center;
 }
