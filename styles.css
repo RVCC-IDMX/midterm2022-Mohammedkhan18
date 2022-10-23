@@ -84,5 +84,14 @@ li:nth-child(odd) {
 }
 
 .reviews li {
-    
+    font-size: 20px;
+    border: none;
+    padding: 20px;
+}
+
+.background h2 {
+    font-family: Kaushan Script ;
+    font-weight: bolder;
+    font-size: 250%;
+    text-align: center;
 }
