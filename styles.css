@@ -17,21 +17,72 @@ body {
 }
 
 .box p {
-    text-align: left;
+    text-align: center;
     font-weight: normal;
-    font-family: Roboto;
+    font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
+    border: 3.5px dotted #0C25E8;
+    padding: 20px;
 }
+
 
 img {
-    padding-left: 40%;
-    padding-bottom: 30px;
-    width: 15em;
+    padding-left: 37%;
+    padding-bottom: 10px;
+    width: 20em;
 }
 
-#websites h2 {
+#hero {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#hero h2 {
     font-family: Kaushan Script ;
     font-weight: bolder;
     font-size: 250%;
     text-align: center;
+}
+
+
+#hero ul   {
+text-align: left;
+
+}
+
+li:nth-child(even) {
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 2px dashed;
+    border-color: #51b6fa;
+}
+li:nth-child(odd) {
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 2px dashed;
+    border-color: #9762F0;
+}
+
+#hero li {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+
+.reviews {
+    border: 3px dotted;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.reviews h2 {
+    font-family: Kaushan Script ;
+    font-weight: bolder;
+    font-size: 250%;
+    text-align: center;
+}
+
+.reviews li {
+    
 }
