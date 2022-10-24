@@ -3,27 +3,30 @@ body {
     color: #0C25E8;
     font-family: ;
 }
-.box {
+
+
+.hero {
     padding: 120px;
     background-color: #BCD955;
-    background-image: url();
+    background-image: url("");
 }
-.box h1 {
+.hero h1 {
     padding-bottom: 20px;
     text-align: center;
-    color: #9762F0;
+    color: white;
     font-weight: bolder;
     font-family: Kaushan Script;
     font-size: 300%;
 }
 
-.box p {
+.hero p {
     text-align: center;
-    font-weight: normal;
+    font-weight: bolder;
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
-    border: 3.5px dotted #0C25E8;
+    border: 3.5px dotted white;
     padding: 20px;
+    color: white;
 }
 
 
