@@ -6,6 +6,7 @@ body {
 .box {
     padding: 120px;
     background-color: #BCD955;
+    background-image: url();
 }
 .box h1 {
     padding-bottom: 20px;
@@ -95,3 +96,5 @@ li:nth-child(odd) {
     font-size: 250%;
     text-align: center;
 }
+
+
