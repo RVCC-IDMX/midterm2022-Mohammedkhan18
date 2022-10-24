@@ -8,7 +8,7 @@ body {
 .hero {
     padding: 120px;
     background-color: #BCD955;
-    background-image: url("img/");
+    background-image: url("img/background.jpg");
 }
 .hero h1 {
     padding-bottom: 20px;
